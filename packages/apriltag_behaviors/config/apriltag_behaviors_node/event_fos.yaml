@@ -1,0 +1,10 @@
+# Parameters for apriltag behaviors node
+behaviors:
+    - tag: 280
+      name: "ESTOP"
+    - tag: 281
+      name: "LANE_FOLLOWING_MODE"
+    - tag: 282
+      name: "LEFT_HAND_TRAFFIC"
+    - tag: 283
+      name: "RIGHT_HAND_TRAFFIC"
